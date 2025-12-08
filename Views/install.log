@@ -1,4 +1,51 @@
 
+TIMESTAMP             
+----------------------
+12/07/2025 08:54:42 pm
+
+
+DB_NAME   
+----------
+FORMULA1
+
+
 View FANTASY.V_FANTASY_USERS_TEAMS_PIVOTED created.
 
 No errors.
+
+View FANTASY.V_FINAL_SCORES created.
+
+No errors.
+
+View FANTASY.V_LINEUP_WITH_POINTS created.
+
+No errors.
+
+View FANTASY.V_POINTS_BY_ROUND created.
+
+No errors.
+
+View FANTASY.V_POPULARITY_BY_ROUND created.
+
+No errors.
+
+View FANTASY.V_STAR_POPULARITY_BY_ROUND created.
+
+No errors.
+
+View FANTASY.V_DRIVER_ROUND_POINTS created.
+
+No errors.
+
+View FANTASY.V_DRIVER_TEAM_POINTS created.
+
+No errors.
+
+View FANTASY.V_TOP_EARNERS created.
+
+No errors.
+
+TIMESTAMP             
+----------------------
+12/07/2025 08:54:43 pm
+
